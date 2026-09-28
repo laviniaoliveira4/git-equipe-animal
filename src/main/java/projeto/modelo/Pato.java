@@ -1,3 +1,5 @@
+package projeto.modelo;
+
 public class Pato extends Animal {
 
      private String habitat;
