@@ -1,2 +1,2 @@
 # git-equipe-animal
-Integrantes que contribuíram nesta versão: [Lavínia]
+Integrantes que contribuíram nesta versão: [Lavínia, Marcos]
